@@ -1,10 +1,8 @@
 
-
-
 function App() {
   return (
     <>
-      <h1>react.app</h1>
+      <h1>react.app prueba</h1>
     </>
   );
 }
