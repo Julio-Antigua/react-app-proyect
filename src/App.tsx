@@ -1,8 +1,9 @@
+import { Navigation } from "./routes/Navigation";
 
 function App() {
   return (
     <>
-      <h1>react.app prueba</h1>
+      <Navigation></Navigation>
     </>
   );
 }
